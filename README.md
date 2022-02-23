@@ -26,7 +26,8 @@ temporal O(n), n=tamanho vetor inteiros inicial.
 - Complexidade espacial é O(n), n=tamanho vetor inteiros inicial, uma vez que temos de
 reservar memória para um vetor inicial para guardar o input, assim como 2 vetores auxiliares, ‘vec’ e ‘count’ ambos de tamanho n=tamanho vetor inteiros inicial.
 
-> Complexidade Temporal final do algoritmo = O(n^2)\ Complexidade Espacial final do algoritmo = O(n)
+> Complexidade Temporal final do algoritmo = O(n^2)\ 
+> Complexidade Espacial final do algoritmo = O(n)
 #
 #### Problema 2:
 - Leitura dos dados de entrada: simples leitura do input, com um ciclo a depender linearmente do tamanho do input do primeiro vetor e outro a depender do tamanho do input do segundo vetor, logo complexidade temporal O(n+m), n=tamanho 1o vetor, m=tamanho 2o vetor.
@@ -34,7 +35,7 @@ reservar memória para um vetor inicial para guardar o input, assim como 2 vetor
 - Iteração de todos os elementos do primeiro vetor e em cada elemento itera-se por todos os elementos do segundo vetor, logo complexidade temporal O(n*m), n=tamanho 1o vetor, m=tamanho 2o vetor.
 - No final, iterar pelos valores da tabela e retornar o maior valor da tabela, com complexidade temporal O(m), m=tamanho do 2o vetor.
 
-> Complexidade Temporal final do algoritmo = O(n*m) 
+> Complexidade Temporal final do algoritmo = O(n\*m) \
 > Complexidade Espacial final do algoritmo = O(n+m)
 #
 #

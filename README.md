@@ -1,9 +1,9 @@
 # Relatório 1o projecto ASA 2021/2022
 #### Aluno(s): Francisco Lopes (99220) e Nuno Martins (99292)
-(\)
-  
 
-        
+#.       
+#.            
+         
 ## Descrição do Problema e da Solução
 #### Problema 1:
 

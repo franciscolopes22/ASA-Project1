@@ -26,7 +26,7 @@ temporal O(n), n=tamanho vetor inteiros inicial.
 - Complexidade espacial é O(n), n=tamanho vetor inteiros inicial, uma vez que temos de
 reservar memória para um vetor inicial para guardar o input, assim como 2 vetores auxiliares, ‘vec’ e ‘count’ ambos de tamanho n=tamanho vetor inteiros inicial.
 
-> Complexidade Temporal final do algoritmo = O(n^2) \ 
+> Complexidade Temporal final do algoritmo = O(n\^2)\
 > Complexidade Espacial final do algoritmo = O(n)
 #
 #### Problema 2:

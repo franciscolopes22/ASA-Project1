@@ -1,7 +1,12 @@
 # Relatório 1o projecto ASA 2021/2022
 #### Aluno(s): Francisco Lopes (99220) e Nuno Martins (99292)\
-
-\ ## Descrição do Problema e da Solução
+  
+  
+    
+    
+      
+        
+## Descrição do Problema e da Solução
 ##### Problema 1:
 
 O problema consiste numa sequência de números inteiros onde se pretende calcular o tamanho da maior subsequência estritamente crescente (LIS - “Longest Increasing Subsequence”) juntamente com o número de subsequências estritamente crescentes de tamanho máximo.
